@@ -5,25 +5,4 @@
         <lastmod>2024-03-05</lastmod>
         <priority>1.0</priority>
     </url>
-    <!-- Les sections de la page, si disponibles -->
-    <url>
-        <loc>https://www.spaarple.fr/#about</loc>
-        <lastmod>2024-03-05</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.spaarple.fr/#technologies</loc>
-        <lastmod>2024-03-05</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.spaarple.fr/#projects</loc>
-        <lastmod>2024-03-05</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://www.spaarple.fr/#contact</loc>
-        <lastmod>2024-03-05</lastmod>
-        <priority>0.8</priority>
-    </url>
 </urlset>
